@@ -1,1 +1,15 @@
 /* @define box-shadow-garnishes */
+
+@import "@savvy-css/box-shadow-variables";
+
+.g-box-shadow-1 { box-shadow: var(--box-shadow-1) !important; }
+.g-box-shadow-2 { box-shadow: var(--box-shadow-2) !important; }
+.g-box-shadow-3 { box-shadow: var(--box-shadow-3) !important; }
+.g-box-shadow-4 { box-shadow: var(--box-shadow-4) !important; }
+.g-box-shadow-5 { box-shadow: var(--box-shadow-5) !important; }
+.g-box-shadow-6 { box-shadow: var(--box-shadow-6) !important; }
+
+.g-box-shadow-none { box-shadow: none !important; }
+.g-box-shadow-inherit { box-shadow: inherit !important; }
+.g-box-shadow-initial { box-shadow: initial !important; }
+.g-box-shadow-unset { box-shadow: unset !important; }

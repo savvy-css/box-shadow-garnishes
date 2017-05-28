@@ -25,6 +25,7 @@
   "author": "Brian Sipple <@Brian_Sipple>",
   "license": "MIT",
   "devDependencies": {
+    "@savvy-css/box-shadow-variables": "^0.0.2",
     "@savvy-css/stylelint-config-savvy": "^0.1.0",
     "cssnano": "^3.10.0",
     "del-cli": "^1.0.0",

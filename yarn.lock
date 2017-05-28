@@ -2,6 +2,10 @@
 # yarn lockfile v1
 
 
+"@savvy-css/box-shadow-variables@^0.0.2":
+  version "0.0.2"
+  resolved "https://registry.yarnpkg.com/@savvy-css/box-shadow-variables/-/box-shadow-variables-0.0.2.tgz#5d99aaf2ce2c40e45fc88369e8ce43f3e81f8893"
+
 "@savvy-css/stylelint-config-savvy@^0.1.0":
   version "0.1.0"
   resolved "https://registry.yarnpkg.com/@savvy-css/stylelint-config-savvy/-/stylelint-config-savvy-0.1.0.tgz#a8622d2b201f16602fda0d5eb5362a7d71b9ac9e"
