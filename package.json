@@ -1,6 +1,6 @@
 {
   "name": "@savvy-css/box-shadow-garnishes",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Box-shadow garnishes for Savvy CSS.",
   "main": "build/box-shadow-garnishes.css",
   "style": "build/box-shadow-garnishes.css",
